@@ -1,0 +1,20 @@
+Vagrant.configure("2") do |config|
+  config.vm.box = "opscode_debian"
+  config.vm.box_url = "http://opscode-vm-bento.s3.amazonaws.com/vagrant/virtualbox/opscode_debian-7.2.0-i386_chef-provisionerless.box"
+  config.vm.network :forwarded_port, guest: 80, host: 8080
+  config.vm.network :forwarded_port, guest: 8080, host: 8081
+  config.vm.network :forwarded_port, guest: 3306, host: 3306
+  config.vm.network :private_network, ip: "192.168.100.111"
+  config.vm.synced_folder "../src", "/vagrant", :nfs => { :mount_options => ["dmode=777","fmode=777"] }
+  config.vm.synced_folder "./confs", "/confs"
+  config.vm.provision :shell, :path => "bootstrap.sh"
+
+  config.vm.provider :virtualbox do |vb|
+    # Don't boot with headless mode
+    vb.gui = false
+    vb.name = "DenunciaYa"
+    # Use VBoxManage to customize the VM. For example to change memory:
+    vb.customize ["modifyvm", "DenunciaYa", "--memory", "4096",  "--ioapic", "on"]
+  end
+  
+end

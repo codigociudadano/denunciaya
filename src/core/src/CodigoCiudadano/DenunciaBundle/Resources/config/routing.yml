@@ -1,0 +1,3 @@
+codigo_ciudadano_Denuncia_homepage:
+    pattern:  /
+    defaults: { _controller: CodigoCiudadanoDenunciaBundle:Default:index }

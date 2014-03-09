@@ -6,18 +6,15 @@ Aplicativo para denunciar las cosas que no te gustan abiertamente.
 Herramientas
 ============
 
-Este aplicativo esta desarrollado con Node.js + Express en el backend para proveer
-una API de datos REST la cual podra ser utilizada por cualquier tipo de aplicativo cliente.
+Este aplicativo esta desarrollado con Symfony2, JavaScript, Boostrap, Mysql y otros.
 
-Un cliente web que esta siendo desarrollado con Backbone.js el cual consume la API.
-
-Como base de datos estamos usando mongodb, por que ?, tenia ganas de jugar con mongo.
 
 Colaboradores
 =============
 
   * Idea : Luis Eiman @ElLuish
   * Developer : Casiva Agustin @casivaagustin
+                + esperemos mas pronto +
   
 Que se necesita ?
 =================
