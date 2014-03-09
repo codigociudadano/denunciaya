@@ -1,0 +1,26 @@
+{% if error %}
+    <div>{{ error|trans }}</div>
+{% endif %}
+<h3>Ingresar</h3>
+<form action="{{ path("fos_user_security_check") }}" method="post" role="form" class="form-horizontal">
+    <input type="hidden" name="_csrf_token" value="{{ csrf_token }}"/>
+
+    <div class="form-group">
+        <label class="col-sm-4 control-label" for="username">Usuario : </label>
+        <input class="" type="text" id="username" name="_username" value="{{ last_username }}"
+               required="required"/>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-4 control-label" for="password">Password : </label>
+        <input class="" type="password" id="password" name="_password" required="required"/>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-4 control-label" for="remember_me">Recordarme: </label>
+        <input class="" type="checkbox" id="remember_me" name="_remember_me" value="on"/>
+    </div>
+
+    <div class="actions_center">
+        <input class="btn btn-primary" type="submit" id="_submit" name="_submit" value="Ingresar"/>
+        <a href="{{ path("fos_user_registration_register") }}" class="btn btn-success">Registrarse</a>
+    </div>
+</form>

@@ -1,0 +1,7 @@
+<h2>Registrarse</h2>
+<form action="{{ path('fos_user_registration_register') }}" {{ form_enctype(form) }} method="POST" class="fos_user_registration_register">
+    {{ form_widget(form) }}
+    <div class="actions_center">
+        <input class="btn btn-primary" type="submit" value="Registrarme" />
+    </div>
+</form>

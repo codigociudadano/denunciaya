@@ -1,0 +1,9 @@
+<h4>Bienvenido : {{ user.username }}</h4>
+<ul>
+    <li>
+        <a href="{{ path('fos_user_profile_edit') }}">Editar Perfil</a>
+    </li>
+    <li>
+        <a href="{{ path('fos_user_security_logout') }}">Salir</a>
+    </li>
+</ul>

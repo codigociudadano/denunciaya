@@ -1,0 +1,27 @@
+CodigoCiudadano\DenunciaBundle\Entity\Relacionada:
+    type: entity
+    table: relacionada
+    indexes:
+        IDX_7B1E714317048D94:
+            columns:
+                - denuncia_id
+    id:
+        id:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            generator:
+                strategy: IDENTITY
+    manyToOne:
+        denuncia:
+            targetEntity: Denuncia
+            cascade: {  }
+            mappedBy: null
+            inversedBy: null
+            joinColumns:
+                denuncia_id:
+                    referencedColumnName: id
+            orphanRemoval: false
+    lifecycleCallbacks: {  }

@@ -1,0 +1,106 @@
+CodigoCiudadano\DenunciaBundle\Entity\Denuncia:
+    type: entity
+    table: denuncia
+    repositoryClass: CodigoCiudadano\DenunciaBundle\Repository\DenunciaRepository
+    indexes:
+        IDX_F4236796A76ED395:
+            columns:
+                - user_id
+        IDX_F423679667707C89:
+            columns:
+                - localidad_id
+        IDX_F42367964E7121AF:
+            columns:
+                - provincia_id
+        IDX_F423679622E63D5F:
+            columns:
+                - tipo_denuncia
+    id:
+        id:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            generator:
+                strategy: IDENTITY
+    fields:
+        ipUsuario:
+            type: string
+            nullable: false
+            length: 50
+            fixed: false
+            comment: ''
+            column: ip_usuario
+        fechaCreacion:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: fecha_creacion
+        titulo:
+            type: string
+            nullable: false
+            length: 300
+            fixed: false
+            comment: ''
+        descripcion:
+            type: text
+            nullable: false
+            length: null
+            fixed: false
+            comment: ''
+        coordenadasDenuncia:
+            type: string
+            nullable: false
+            length: 200
+            fixed: false
+            comment: ''
+            column: coordenadas_denuncia
+        publicado:
+            type: boolean
+            nullable: false
+            comment: ''
+        estado:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+    manyToOne:
+        tipoDenuncia:
+            targetEntity: TipoDenuncia
+            cascade: {  }
+            mappedBy: null
+            inversedBy: null
+            joinColumns:
+                tipo_denuncia:
+                    referencedColumnName: id
+            orphanRemoval: false
+        provincia:
+            targetEntity: Provincia
+            cascade: {  }
+            mappedBy: null
+            inversedBy: null
+            joinColumns:
+                provincia_id:
+                    referencedColumnName: id
+            orphanRemoval: false
+        localidad:
+            targetEntity: Localidad
+            cascade: {  }
+            mappedBy: null
+            inversedBy: null
+            joinColumns:
+                localidad_id:
+                    referencedColumnName: id
+            orphanRemoval: false
+        user:
+            targetEntity: User
+            cascade: {  }
+            mappedBy: null
+            inversedBy: null
+            joinColumns:
+                user_id:
+                    referencedColumnName: id
+            orphanRemoval: false
+    lifecycleCallbacks: {  }

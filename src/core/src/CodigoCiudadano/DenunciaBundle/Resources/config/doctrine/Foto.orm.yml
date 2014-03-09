@@ -1,0 +1,26 @@
+CodigoCiudadano\DenunciaBundle\Entity\Foto:
+    type: entity
+    table: foto
+    id:
+        id:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            generator:
+                strategy: IDENTITY
+    fields:
+        denunciaId:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: denuncia_id
+        path:
+            type: string
+            nullable: false
+            length: 255
+            fixed: false
+            comment: ''
+    lifecycleCallbacks: {  }

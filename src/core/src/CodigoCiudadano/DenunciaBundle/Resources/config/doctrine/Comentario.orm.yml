@@ -1,0 +1,56 @@
+CodigoCiudadano\DenunciaBundle\Entity\Comentario:
+    type: entity
+    table: comentario
+    id:
+        id:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            generator:
+                strategy: IDENTITY
+    fields:
+        userId:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: user_id
+        fechaCreacion:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: fecha_creacion
+        ipComentario:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: ip_comentario
+        comentario:
+            type: text
+            nullable: false
+            length: null
+            fixed: false
+            comment: ''
+        referenceId:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: reference_id
+        referenceEntity:
+            type: string
+            nullable: false
+            length: 200
+            fixed: false
+            comment: ''
+            column: reference_entity
+        publicado:
+            type: boolean
+            nullable: false
+            comment: ''
+            default: '1'
+    lifecycleCallbacks: {  }
