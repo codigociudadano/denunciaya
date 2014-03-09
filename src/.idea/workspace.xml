@@ -23,46 +23,78 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Resources/config/routing.yml">
+      <file leaf-file-name="DenunciaBaseController.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Controller/DenunciaBaseController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="44" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+            <state line="52" column="19" selection-start="2110" selection-end="2110" vertical-scroll-proportion="0.84698796" vertical-offset="77" max-vertical-offset="930">
+              <folding>
+                <element signature="e#61#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Profile/edit.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="169" selection-end="169" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/app/config/routing.yml">
+      <file leaf-file-name="edit_content.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Profile/edit_content.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="22" selection-start="560" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="210">
+              <folding>
+                <marker date="1394370252000" expanded="true" signature="163:294" placeholder="..." />
+                <marker date="1394370252000" expanded="true" signature="201:286" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Profile/show.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="16" selection-start="165" selection-end="165" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resetting.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/core/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/routing/resetting.xml">
+      <file leaf-file-name="show_content.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Profile/show_content.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="54" selection-start="808" selection-end="808" vertical-scroll-proportion="0.47309834" vertical-offset="0" max-vertical-offset="539">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Controller/DefaultController.php">
+      <file leaf-file-name="register.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Registration/register.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="106" selection-start="323" selection-end="323" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="285">
+            <state line="0" column="0" selection-start="0" selection-end="69" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="security.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/app/config/security.yml">
+      <file leaf-file-name="profile.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/routing/profile.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="14" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+            <state line="11" column="36" selection-start="465" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="security.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/routing/security.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="39" selection-start="627" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
               <folding />
             </state>
           </provider>
@@ -78,31 +110,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenuciaBundle/Resources/config/doctrine/User.orm.yml" />
-        <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/CodigoCiudadanoDenuciaBundle.php" />
-        <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Controller/DenunciaBaseController.php" />
-        <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/DependencyInjection/CodigoCiudadanoDenuciaExtension.php" />
-        <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/DependencyInjection/Configuration.php" />
-        <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Entity/User.php" />
-        <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Resources/config/doctrine/User.orm.yml" />
-        <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Resources/config/routing.yml" />
-        <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Resources/config/services.yml" />
-        <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Tests/Controller/DefaultControllerTest.php" />
-        <option value="$PROJECT_DIR$/core/app/AppKernel.php" />
-        <option value="$PROJECT_DIR$/core/app/config/routing.yml" />
-        <option value="$PROJECT_DIR$/core/app/config/routing_dev.yml" />
-        <option value="$PROJECT_DIR$/core/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Resources/config/doctrine/Denuncia.orm.yml" />
         <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Controller/DefaultController.php" />
-        <option value="$PROJECT_DIR$/core/app/config/security.yml" />
+        <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Resources/views/Default/index.html.twig" />
+        <option value="$PROJECT_DIR$/core/app/Resources/views/forms.twig" />
+        <option value="$PROJECT_DIR$/core/app/Resources/views/forms.html.twig" />
+        <option value="$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Registration/register_content.html.twig" />
+        <option value="$PROJECT_DIR$/core/app/Resources/translations/denuncia.es.yml" />
+        <option value="$PROJECT_DIR$/core/app/Resources/translations/labels.es.yml" />
+        <option value="$PROJECT_DIR$/core/app/Resources/translations/messages.es.yml" />
+        <option value="$PROJECT_DIR$/core/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/core/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/core/app/Resources/translations/FOSUserBundle.es.yml" />
+        <option value="$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Registration/confirmed.html.twig" />
+        <option value="$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Profile/show.html.twig" />
+        <option value="$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Profile/edit.html.twig" />
+        <option value="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Resources/views/User/partial_user_info.html.twig" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="580" />
-    <option name="y" value="289" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="y" value="22" />
+    <option name="width" value="1949" />
+    <option name="height" value="1025" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -189,6 +220,84 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="friendsofsymfony" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -202,6 +311,232 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="UserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Security" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resetting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Registration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friendsofsymfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-bundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Profile" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -404,6 +739,14 @@
               <option name="myItemId" value="Resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -435,7 +778,173 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodigoCiudadano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DenunciaBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodigoCiudadano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DenunciaBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodigoCiudadano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DenunciaBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodigoCiudadano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DenunciaBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Repository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodigoCiudadano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DenunciaBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -513,7 +1022,141 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="translations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FOSUserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Registration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FOSUserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Profile" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -553,7 +1196,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views" />
+      <recent name="$PROJECT_DIR$/core/app/Resources/translations" />
+      <recent name="$PROJECT_DIR$/core/app/Resources/views" />
+      <recent name="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Resources/views/Default" />
       <recent name="$PROJECT_DIR$/core/src/CodigoCiudadano/DenuciaBundle/Controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Repository" />
+      <recent name="$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Resources/public/css" />
     </key>
   </component>
   <component name="RunManager">
@@ -582,16 +1233,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="580" y="289" width="1400" height="1000" extended-state="0" />
+    <frame x="0" y="22" width="1949" height="1025" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281768" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3589365" sideWeight="0.67045456" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25538623" sideWeight="0.6718232" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -617,115 +1268,120 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Controller/DenunciaBaseController.php">
+    <entry file="file://$PROJECT_DIR$/core/app/Resources/translations/messages.es.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="33" selection-end="33" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="240">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="854">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/DependencyInjection/CodigoCiudadanoDenuciaExtension.php">
+    <entry file="file://$PROJECT_DIR$/core/app/config/parameters.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="21" selection-start="481" selection-end="481" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="465">
+        <state line="12" column="14" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/DependencyInjection/Configuration.php">
+    <entry file="file://$PROJECT_DIR$/core/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Security/login.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="57" selection-start="668" selection-end="668" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="510">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="854">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Tests/Controller/DefaultControllerTest.php">
+    <entry file="file://$PROJECT_DIR$/core/app/Resources/translations/FOSUserBundle.es.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="33" selection-end="33" vertical-scroll-proportion="0.03836317" vertical-offset="0" max-vertical-offset="782">
+        <state line="44" column="8" selection-start="1109" selection-end="1113" vertical-scroll-proportion="0.0" vertical-offset="496" max-vertical-offset="1545">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Resources/config/services.yml">
+    <entry file="file://$PROJECT_DIR$/core/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Registration/confirmed.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="34" selection-start="182" selection-end="182" vertical-scroll-proportion="0.09047045" vertical-offset="0" max-vertical-offset="829">
+        <state line="4" column="28" selection-start="121" selection-end="121" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Registration/confirmed.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="538" selection-end="538" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/app/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="26" selection-start="1755" selection-end="1755" vertical-scroll-proportion="0.35992578" vertical-offset="706" max-vertical-offset="1245">
+        <state line="17" column="29" selection-start="489" selection-end="495" vertical-scroll-proportion="0.15845071" vertical-offset="120" max-vertical-offset="1290">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/CodigoCiudadanoDenunciaBundle.php">
+    <entry file="file://$PROJECT_DIR$/core/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/routing/security.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="21" selection-start="120" selection-end="120" vertical-scroll-proportion="0.17475729" vertical-offset="0" max-vertical-offset="515">
+        <state line="15" column="39" selection-start="627" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/app/config/routing_dev.yml">
+    <entry file="file://$PROJECT_DIR$/core/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/routing/profile.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.37366548" vertical-offset="0" max-vertical-offset="562">
+        <state line="11" column="36" selection-start="465" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/app/AppKernel.php">
+    <entry file="file://$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Registration/register.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="49" selection-start="991" selection-end="991" vertical-scroll-proportion="0.6133829" vertical-offset="0" max-vertical-offset="615">
+        <state line="0" column="0" selection-start="0" selection-end="69" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="165">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Resources/config/doctrine/User.orm.yml">
+    <entry file="file://$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Profile/edit_content.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="195">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="877">
+          <folding>
+            <marker date="1394370252000" expanded="true" signature="163:294" placeholder="..." />
+            <marker date="1394370252000" expanded="true" signature="201:286" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Profile/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="16" selection-start="165" selection-end="165" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="165">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Entity/User.php">
+    <entry file="file://$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Profile/show_content.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="0.111524165" vertical-offset="0" max-vertical-offset="538">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="854">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Controller/DefaultController.php">
+    <entry file="file://$PROJECT_DIR$/core/app/Resources/FOSUserBundle/views/Profile/edit.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="106" selection-start="323" selection-end="323" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="285">
+        <state line="5" column="0" selection-start="169" selection-end="169" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="165">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/app/config/security.yml">
+    <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Resources/views/User/partial_user_info.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+        <state line="8" column="5" selection-start="229" selection-end="229" vertical-scroll-proportion="0.14457831" vertical-offset="0" max-vertical-offset="830">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Resources/config/routing.yml">
+    <entry file="file://$PROJECT_DIR$/core/src/CodigoCiudadano/DenunciaBundle/Controller/DenunciaBaseController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="44" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/app/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="560" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/routing/resetting.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="54" selection-start="808" selection-end="808" vertical-scroll-proportion="0.47309834" vertical-offset="0" max-vertical-offset="539">
-          <folding />
+        <state line="52" column="19" selection-start="2110" selection-end="2110" vertical-scroll-proportion="0.84698796" vertical-offset="77" max-vertical-offset="930">
+          <folding>
+            <element signature="e#61#118#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

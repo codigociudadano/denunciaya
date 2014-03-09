@@ -1,8 +1,8 @@
 <?php
-// src/Acme/UserBundle/Entity/User.php
 
 namespace CodigoCiudadano\DenunciaBundle\Entity;
 
+use Doctrine\ORM\Mapping as ORM;
 use FOS\UserBundle\Model\User as BaseUser;
 
 /**
@@ -10,9 +10,5 @@ use FOS\UserBundle\Model\User as BaseUser;
  */
 class User extends BaseUser
 {
-    public function __construct()
-    {
-        parent::__construct();
-        // your own logic
-    }
+
 }

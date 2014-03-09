@@ -1,1 +1,16 @@
-Hello {{ name }}!
+{% extends 'CodigoCiudadano\DenunciaBundle:Default:base.html.twig' %}
+
+{% block body %}
+    <div class="list">
+        <h2>Últimas Denuncias</h2>
+        {% for denuncia in denuncias %}
+            <div class="denuncia">{{ denuncia.titulo }}</div>
+        {% else %}
+        <div class="alert alert-warning">No hay denuncias disponibles</div>
+        {% endfor %}
+    </div>
+{% endblock %}
+
+{% block right_rail %}
+    {{ userInfo | raw }}
+{% endblock %}
